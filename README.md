@@ -1,16 +1,17 @@
-### Hi there 👋
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ox1zen&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) -->
+<img src="./images/banner.png" />
+<p align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Ox1zen&count_private=true&hide=stars,prs,contribs&show_icons=true&theme=prussian"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Ox1zen&show_icons=true&theme=default"
+  media="(prefers-color-scheme: light)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+</p align="center">
 
-<!--
-**Ox1zen/Ox1zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
