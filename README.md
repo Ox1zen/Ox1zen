@@ -51,7 +51,7 @@
     <td> MySQL</td> <!-- -->
     <td><!-- OS --></td>
     <td></td> <!-- -->
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="mysql" width="40" height="40"/></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="mysql" width="40" height="40"/></a></td>
     <td>VS code</td>
 </tr>
 <tr>
