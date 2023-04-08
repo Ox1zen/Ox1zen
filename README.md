@@ -1,18 +1,19 @@
 <!-- # <p>Hi I'm Remy [Junior Fullstack Web Developer]</p> -->
-# <img src="./Ox1zen Banner large.svg" alt="">
+ <img src="./Ox1zen Banner large.svg" alt=""> 
 
-## <p style="text-align:center;">Wants to know more about me ?</p>
+ - 👨‍💻 All of my projects are available at https://ox1zen.github.io/
+- 📫 How to reach me : Ox1zen@gmx.fr
+<br><br><br>
+
+## <p align="center">Wants to know more about me ?</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p style="text-align:center;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Always+Learn+New+Things;Love+Coding;Enjoy+Graphic+Design;Currently+Learning+Flutter" alt="Typing SVG" /></a>
-<br><br>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Always+Learn+New+Things;Love+Coding;Enjoy+Graphic+Design;Currently+Learning+Flutter" alt="Typing SVG" /></a>
 
-- 👨‍💻 All of my projects are available at https://ox1zen.github.io/
-- 📫 How to reach me Ox1zen@gmx.fr
 
 <br><br>
 
-<table>
+<table align="center">
 <tr>
     <th>Languages</th>
     <th></th> <!-- -->
