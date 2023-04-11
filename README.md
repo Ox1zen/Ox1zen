@@ -2,10 +2,9 @@
  <img src="./Ox1zen Banner large.svg" alt=""> 
 
  # Hi I'm Remy [Junior Fullstack Web Developer] in making
-
- - 👨‍💻 All of my projects are available at https://ox1zen.github.io/
+- 👨‍💻 All of my projects are available at https://ox1zen.github.io/
 - 📫 How to reach me : Ox1zen@gmx.fr
-<br><br><br>
+<br><br>
 
 ## <p align="center">Wants to know more about me ?</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
