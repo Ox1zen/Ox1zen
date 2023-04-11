@@ -1,6 +1,8 @@
 <!-- # <p>Hi I'm Remy [Junior Fullstack Web Developer]</p> -->
  <img src="./Ox1zen Banner large.svg" alt=""> 
 
+ # Hi I'm Remy [Junior Fullstack Web Developer] in making
+
  - 👨‍💻 All of my projects are available at https://ox1zen.github.io/
 - 📫 How to reach me : Ox1zen@gmx.fr
 <br><br><br>
