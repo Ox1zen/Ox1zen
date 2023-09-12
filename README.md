@@ -2,7 +2,7 @@
  <img src="./Ox1zen Banner large.svg" alt=""> 
 
  # Hi I'm Remy [Frontend Web Developer]
-- 👨‍💻 All of my projects are available at https://ox1zen.github.io/ ([Work In Progress])
+- 👨‍💻 All of my projects are available at https://ox1zen.github.io/ (Work In Progress)
 - 📫 How to reach me : Ox1zen@gmx.fr
 <br><br>
 
